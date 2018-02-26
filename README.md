@@ -1,4 +1,8 @@
-# Making a calendar
+# A customization of react-datepicker
+
+This customization of [react-datepicker](). It's a proof of concept for having a 2 month/ 2 input box display. It's a POC; so there are edge cases not handled and styling looks horrible.
+
+## Notes on DatePicker options
 
 *How do I disable all future dates?*
 

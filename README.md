@@ -1,6 +1,6 @@
 # A customization of react-datepicker
 
-This customization of [react-datepicker](). It's a proof of concept for having a 2 month/ 2 input box display. It's a POC; so there are edge cases not handled and styling looks horrible.
+This customization of [react-datepicker](https://github.com/Hacker0x01/react-datepicker/tree/master/src). It's a proof of concept for having a 2 month/ 2 input box display. It's a POC; so there are edge cases not handled and styling looks horrible.
 
 ## Notes on DatePicker options
 
